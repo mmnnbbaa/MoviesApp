@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="top_rated">top_rated</string>
+    <string name="popular">popular</string>
+    <string name="movieTitle">MovieTitle</string>
+    <string name="userRating">UserRating</string>
+    <string name="releaseDate">ReleaseDate</string>
+    <string name="plotSynopsis">PlotSynopsis</string>
+    <string name="Todo">TODO</string>
+</resources>
